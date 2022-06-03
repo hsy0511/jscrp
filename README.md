@@ -9,3 +9,4 @@ function checkValue 함수를 만듭니다. 그리고 if문을 통해서 빈칸�
 # 실행 화면
 ![asdasds](https://user-images.githubusercontent.com/104752580/171781237-8cc65d47-de9c-47a5-886f-1d118635c602.JPG)
 ![asdasdasdasd](https://user-images.githubusercontent.com/104752580/171781242-26d0908a-4ac2-4e02-9f95-a238fe81dac4.JPG)
+실행 화면처럼 빈칸이 많을때는 제일 먼저 빈칸이었던 곳에 입력하라고 뜹니다.
